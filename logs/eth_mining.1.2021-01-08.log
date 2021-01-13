@@ -1,0 +1,18 @@
+Unable to set persistence mode for GPU 00000000:05:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Failed to set power management limit for GPU 00000000:05:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+
+
+2021-01-08 10:12:29 Starting eth mining
+GPU NAME = GeForce RTX 3080
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:14444
+BACKUP POOL HOST = asia1.ethermine.org:5555
+GPUIDS = 1
+GPU IDs =  1
+CUDA DEVICES =  1
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 3080 Compute version: 8.6 cudaDeviceProp::totalGlobalMem: 10501554176 [1] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8370061312
+./bin/ethminer -RH --api-port 3331 --cuda-devices 1 --farm-recheck 200 -U -S asia1.ethermine.org:14444 -FS asia1.ethermine.org:5555 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_1

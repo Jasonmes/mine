@@ -1,0 +1,342 @@
+2020-11-19 16:08:24 Error: ethminer process not found
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 16:08:38 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 16:09:10 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 16:09:42 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 16:10:15 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 16:10:47 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 16:11:19 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+2020-11-19 16:12:13 Error: ethminer process not found
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 16:12:28 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 16:17:07 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 16:27:25 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 16:39:26 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 16:39:57 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 17:04:55 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 17:06:19 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 17:15:43 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 17:16:51 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 17:17:11 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 17:17:31 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 17:17:51 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Provided power limit 120.00 W is not a valid power limit which should be between 125.00 W and 200.00 W for GPU 00000000:01:00.0
+Terminating early due to previous errors.
+
+
+2020-11-19 18:01:00 Starting eth mining
+GPU NAME = GeForce RTX 2060 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2060 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366915584
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0

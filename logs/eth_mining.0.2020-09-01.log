@@ -1,0 +1,162 @@
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Failed to set power management limit for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+
+
+2020-09-01 10:49:01 Starting eth mining
+GPU NAME = GeForce RTX 2080 SUPER
+WALLET = b35097bb342A27BF134114D7961FC9B9081AEA84
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = 
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366784512 [1] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8370061312
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS  -O b35097bb342A27BF134114D7961FC9B9081AEA84.taike-MS-7B51_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Failed to set power management limit for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+
+
+2020-09-01 10:59:11 Starting eth mining
+GPU NAME = GeForce RTX 2080 SUPER
+WALLET = b35097bb342A27BF134114D7961FC9B9081AEA84
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = 
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366784512 [1] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8370061312
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS  -O b35097bb342A27BF134114D7961FC9B9081AEA84.taike-MS-7B51_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Failed to set power management limit for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+
+
+2020-09-01 11:00:02 Starting eth mining
+GPU NAME = GeForce RTX 2080 SUPER
+WALLET = b35097bb342A27BF134114D7961FC9B9081AEA84
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366784512 [1] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8370061312
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O b35097bb342A27BF134114D7961FC9B9081AEA84.taike-MS-7B51_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Failed to set power management limit for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+
+
+2020-09-01 11:25:50 Starting eth mining
+GPU NAME = GeForce RTX 2080 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = cn.sparkpool.com:3333
+BACKUP POOL HOST = asia.sparkpool.com:3333
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366784512 [1] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8370061312
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S cn.sparkpool.com:3333 -FS asia.sparkpool.com:3333 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.taike-MS-7B51_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Failed to set power management limit for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+
+
+2020-09-01 11:28:42 Starting eth mining
+GPU NAME = GeForce RTX 2080 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = cn.sparkpool.com:3333
+BACKUP POOL HOST = cn.sparkpool.com:3333
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366784512 [1] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8370061312
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S cn.sparkpool.com:3333 -FS cn.sparkpool.com:3333 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.taike-MS-7B51_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Failed to set power management limit for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+
+
+2020-09-01 11:29:59 Starting eth mining
+GPU NAME = GeForce RTX 2080 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = eu1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366784512 [1] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8370061312
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S eu1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.taike-MS-7B51_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Failed to set power management limit for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+
+
+2020-09-01 11:38:24 Starting eth mining
+GPU NAME = GeForce RTX 2080 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366784512 [1] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8370061312
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.taike-MS-7B51_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Failed to set power management limit for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+
+
+2020-09-01 11:44:37 Starting eth mining
+GPU NAME = GeForce RTX 2080 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366784512 [1] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8370061312
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.taike-MS-7B51_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Failed to set power management limit for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+
+
+2020-09-01 17:06:28 Starting eth mining
+GPU NAME = GeForce RTX 2080 SUPER
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8366784512 [1] GeForce RTX 2080 SUPER Compute version: 7.5 cudaDeviceProp::totalGlobalMem: 8370061312
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.taike-MS-7B51_0

@@ -1,0 +1,54 @@
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Failed to set power management limit for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+
+
+2020-11-11 15:46:20 Starting eth mining
+GPU NAME = GeForce RTX 3080
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 3080 Compute version: 8.6 cudaDeviceProp::totalGlobalMem: 10495852544
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Failed to set power management limit for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+
+
+2020-11-11 15:46:33 Starting eth mining
+GPU NAME = GeForce RTX 3080
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 3080 Compute version: 8.6 cudaDeviceProp::totalGlobalMem: 10495852544
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
+Unable to set persistence mode for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+Failed to set power management limit for GPU 00000000:01:00.0: Insufficient Permissions
+Terminating early due to previous errors.
+
+
+2020-11-11 15:46:36 Starting eth mining
+GPU NAME = GeForce RTX 3080
+WALLET = 0xb71df35dd9221513819b3d840ee8f8be6f77534d
+POOL HOST = asia1.ethermine.org:4444
+BACKUP POOL HOST = asia1.ethermine.org:4444
+GPUIDS = 0
+GPU IDs =  0
+CUDA DEVICES =  0
+POWER LIMIT = 120W
+MEMORY RATE = 1300
+Listing CUDA devices. FORMAT: [deviceID] deviceName [0] GeForce RTX 3080 Compute version: 8.6 cudaDeviceProp::totalGlobalMem: 10495852544
+./bin/ethminer -RH --api-port 3330 --cuda-devices 0 --farm-recheck 200 -U -S asia1.ethermine.org:4444 -FS asia1.ethermine.org:4444 -O 0xb71df35dd9221513819b3d840ee8f8be6f77534d.jason_0
